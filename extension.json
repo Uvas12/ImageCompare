@@ -1,9 +1,10 @@
 {
 	"name": "ImageCompare",
 	"author": [
-		"Le Duy Quang"
+		"Le Duy Quang",
+		"La pluma azul"
 	],
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"url": "https://www.mediawiki.org/wiki/Extension:ImageCompare",
 	"descriptionmsg": "imageCompare-desc",
 	"license-name": "MIT",
